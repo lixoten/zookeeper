@@ -1,3 +1,5 @@
+//Stage 2/4: Show me an animal_
+
 var camel = """Switching on the camera in the camel habitat...
  ___.-''''-.
 /___  @    |
